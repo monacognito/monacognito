@@ -3,8 +3,8 @@
 
 - 🌱 I am interested in the cyber security field, especially in penetration testing.
 - 👀 Besides cyber security, I'm also enthusiastic about back-end development for web applications.
-- 📝 All of my projects are also available in, [https://rifannidarwin-portfolio.carrd.co/](https://rifannidarwin-portfolio.carrd.co/)
-- 📫 The best way to reach me is through email, **rifanni.darwin@gmail.com**.
+- 📝 All of my projects are also available in [https://rifannidarwin-portfolio.carrd.co/](https://rifannidarwin-portfolio.carrd.co/)
+- 📫 The best way to reach me is through email **rifanni.darwin@gmail.com**.
 
 <h3 align="left">Here is my other socials!</h3>
 <p align="left">
