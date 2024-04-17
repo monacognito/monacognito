@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Computer Science major with a profound specialization in Cyber Security.</h3>
 
 - 🌱 I am interested in the cyber security field, especially in penetration testing.
+<script src="https://tryhackme.com/badge/2863202"></script>
 - 👀 Besides cyber security, I'm also enthusiastic about back-end development for web applications.
 - 📝 All of my projects are also available in [https://rifannidarwin-portfolio.carrd.co/](https://rifannidarwin-portfolio.carrd.co/)
 - 📫 The best way to reach me is through email **rifanni.darwin@gmail.com**.
