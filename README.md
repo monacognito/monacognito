@@ -1,6 +1,7 @@
 <h1 align="center">Hi, Rifa here! 👋</h1>
 <h3 align="center">I'm a Computer Science major with a profound specialization in Cyber Security.</h3>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/monacognito.png" alt="TryHackMe">
 - 🌱 I am interested in the cyber security field, especially in penetration testing.
 - 👀 Besides cyber security, I'm also enthusiastic about back-end development for web applications.
 - 📝 All of my projects are also available in [https://rifannidarwin-portfolio.carrd.co/](https://rifannidarwin-portfolio.carrd.co/)
